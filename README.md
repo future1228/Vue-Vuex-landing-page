@@ -1,5 +1,3 @@
-# 🛫 Flyline-frontend 🛬
-
 ## Table of contents
 
 1. [Overview](#overview)
@@ -9,7 +7,7 @@
 
 ## Overview
 
-The frontend web application for FlyLine project.
+The frontend web application based on Vue framework.
 
 ## Project setup
 ```
