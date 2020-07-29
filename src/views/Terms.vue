@@ -110,10 +110,7 @@ export default {
   components: {
     Navbar,
     Footer,
-    // Button,
-    // Container,
     OverlayLanding,
-    // SubFooter,
     MobileNavbarLogo,
     MobileHomeContent,
     MobileFooter,

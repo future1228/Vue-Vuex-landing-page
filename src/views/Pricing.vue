@@ -28,8 +28,6 @@ export default {
 <style lang="scss">
 .page--pricing {
   margin-bottom: 80px;
-  // max-width: 1440px;
-  // padding: 0px 120px;
   margin: auto;
   .container {
     padding: 60px 0px;
