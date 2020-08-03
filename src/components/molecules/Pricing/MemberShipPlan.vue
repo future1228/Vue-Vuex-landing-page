@@ -128,17 +128,6 @@
         paying booking fees on FlyLine
       </p>
     </div>
-    <div class="membership-card-notify">
-      <div class="notify-head">
-        <span class="notify-title">Additional Companions</span>
-        <span class="notify-mark-premium">Premium User</span>
-      </div>
-      <p class="notify-content">
-        Guest or FlyLine Free users pay a small booking fee of $5 they book a
-        FlyLine Fare and $10 if it’s a FlyLine Exclusive. Premium users avoid
-        paying booking fees on FlyLine
-      </p>
-    </div>
     <p class="bottom-title">
       More questions? Click <a href="">HERE</a> to look at our Frequently Asked
       Questions
