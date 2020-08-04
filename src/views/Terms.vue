@@ -36,32 +36,6 @@
               not agree with our policies and practices, your choice is to not
               use our Services.
             </p>
-            <p>
-              FlyLine, Inc., a Delaware corporation, doing business as Flyline
-              (“Flyline”) operates the Flyline.com and Wanderift.com websites
-              (“Sites”), the Flyline mobile application (“App”), and the travel
-              booking membership services offered through our Sites and App
-              (together with the App and the Sites, the “Services”).
-            </p>
-            <p>
-              Flyline respects and protects the privacy of all individuals in
-              our system. We maintain strict policies to ensure the privacy of
-              those who use our Services (“End Users”) or those who may just be
-              visiting our Site or whose data we hold as part of our service
-              provider relationship with our clients (“Visitors”). This policy
-              (“Privacy Policy”) describes the types of information we may
-              collect from you and our practices for how we collect, use,
-              maintain, protect, and disclose such information. The way that we
-              collect and use your information depends on the way you access the
-              Services (whether by Site or by App). This Privacy Policy also
-              includes a description of certain rights that you may have over
-              information that we may collect from you.
-            </p>
-            <p>
-              By using the Services, you agree to this Privacy Policy. If you do
-              not agree with our policies and practices, your choice is to not
-              use our Services.
-            </p>
           </div>
         </div>
       </div>
