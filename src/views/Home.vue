@@ -16,6 +16,14 @@
           <TrendingFlights :flights="flights" />
         </div>
       </Container>
+      <Container :dark="true">
+        <BestDeals :deals="flights"></BestDeals>
+        <div class="flight-aside">
+          <Dashboard />
+          <UnlockSavings />
+          <TrendingFlights :flights="flights" />
+        </div>
+      </Container>
 
       <Footer />
     </div>
