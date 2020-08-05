@@ -36,6 +36,16 @@
               not agree with our policies and practices, your choice is to not
               use our Services.
             </p>
+            <p>
+              By using the Services, you agree to this Privacy Policy. If you do
+              not agree with our policies and practices, your choice is to not
+              use our Services.
+            </p>
+            <p>
+              By using the Services, you agree to this Privacy Policy. If you do
+              not agree with our policies and practices, your choice is to not
+              use our Services.
+            </p>
           </div>
         </div>
       </div>
