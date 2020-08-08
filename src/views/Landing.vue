@@ -76,6 +76,16 @@
                 services, and exclusive low fares we make by combining segments
                 on different airlines. Select fares offer cash back to use on
                 future travel.
+                FlyLine lets you search the best fares from all over the
+                internet: direct bookings from 250+ airlines, meta search
+                services, and exclusive low fares we make by combining segments
+                on different airlines. Select fares offer cash back to use on
+                future travel.
+                FlyLine lets you search the best fares from all over the
+                internet: direct bookings from 250+ airlines, meta search
+                services, and exclusive low fares we make by combining segments
+                on different airlines. Select fares offer cash back to use on
+                future travel.
               </p>
               <Button type="primary" @click="goTo('How it works')"
                 >Savings Explained</Button
