@@ -77,9 +77,7 @@
                 on different airlines. Select fares offer cash back to use on
                 future travel.
               </p>
-              <Button type="primary" @click="goTo('How it works')"
-                >Savings Explained</Button
-              >
+              <Button type="primary" @click="goTo('How it works')">Savings Explained</Button>
             </div>
             <div class="cell small-5" style="height: 320px;"></div>
           </section>
