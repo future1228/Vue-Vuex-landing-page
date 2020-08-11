@@ -80,6 +80,10 @@
               <Button type="primary" @click="goTo('How it works')">Savings Explained</Button>
             </div>
             <div class="cell small-5" style="height: 320px;"></div>
+            <div class="cell small-5" style="height: 320px;"></div>
+            <div class="cell small-5" style="height: 320px;"></div>
+            <div class="cell small-5" style="height: 320px;"></div>
+            <div class="cell small-5" style="height: 320px;"></div>
           </section>
         </Container>
       </div>
