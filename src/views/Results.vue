@@ -10,18 +10,6 @@
         <div class="page--result__sidebar">
           <SideFilter />
         </div>
-        <div class="page--result__content">
-          <TopFilterTab />
-          <ResultsContent :results="results" />
-        </div>
-        <div class="page--result__content">
-          <TopFilterTab />
-          <ResultsContent :results="results" />
-        </div>
-        <div class="page--result__content">
-          <TopFilterTab />
-          <ResultsContent :results="results" />
-        </div>
       </div>
     </div>
   </div>
