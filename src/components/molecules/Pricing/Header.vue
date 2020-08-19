@@ -40,6 +40,8 @@ export default {
     font-size: 16px;
     font-family: gilroy-medium;
     color: #7b7b7b;
+    font-weight: bold;
+    font-display: floor($number: 1);
   }
 }
 </style>
