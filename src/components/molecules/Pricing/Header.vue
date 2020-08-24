@@ -4,7 +4,6 @@
     <div class="description">
       Choose a plan based on how — and how often — you travel. membership
       Choose a plan based on how — and how often — you travel. membership
-      Choose a plan based on how — and how often — you travel. membership
     </div>
   </div>
 </template>
