@@ -99,6 +99,12 @@
       <div class="notify-head">
         <span class="notify-title">Booking Fees?</span>
         <span class="notify-mark-free">Free User</span>
+        <span class="notify-mark-free">Free User</span>
+        <span class="notify-mark-free">Free User</span>
+        <span class="notify-mark-free">Free User</span>
+        <span class="notify-mark-free">Free User</span>
+        <span class="notify-mark-free">Free User</span>
+        <span class="notify-mark-free">Free User</span>
       </div>
       <p class="notify-content">
         Guest or FlyLine Free users pay a small booking fee of $5 they book a
