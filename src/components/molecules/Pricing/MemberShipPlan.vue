@@ -100,7 +100,6 @@
         <span class="notify-title">Booking Fees?</span>
         <span class="notify-title">Booking Fees?</span>
         <span class="notify-title">Booking Fees?</span>
-        <span class="notify-title">Booking Fees?</span>
       </div>
       <p class="notify-content">
         Guest or FlyLine Free users pay a small booking fee of $5 they book a
