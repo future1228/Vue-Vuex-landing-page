@@ -126,7 +126,6 @@
         <span class="notify-mark-premium">Premium User</span>
         <span class="notify-mark-premium">Premium User</span>
         <span class="notify-mark-premium">Premium User</span>
-        <span class="notify-mark-premium">Premium User</span>
       </div>
       <p class="notify-content">
         Guest or FlyLine Free users pay a small booking fee of $5 they book a
